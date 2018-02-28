@@ -8,6 +8,8 @@
 </p>
 
 # [VotePen.com](https://votepen.com)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FVotePen%2FPlatform.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FVotePen%2FPlatform?ref=badge_shield)
+
 
 [VotePen](https://votepen.com) is a place to Share, upvote, and discuss the best of the internet. To get a quick taste of what VotePen is written with please check our [credits page](https://votepen.com/credits).
 
@@ -35,3 +37,7 @@ Thank you for considering contributing to the VotePen. Here's a list of things y
 ## API
 
 VotePen's public API is under development and will be out in February. The VotePen API will be organized around REST. It can be used to build non-automated, high-quality apps and services that interact with the platform.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FVotePen%2FPlatform.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FVotePen%2FPlatform?ref=badge_large)
